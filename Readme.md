@@ -5,5 +5,5 @@
 >>MainActivity 파일
 
 >## ROS 파일 
->>command_exectour 안드로이드와 연결 통신 파일
+>>command_exectour 안드로이드와 통신 파일
 >>motor_sub 자율주행 파일  
